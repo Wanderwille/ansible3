@@ -41,4 +41,4 @@
 
 ![Скриншот 5](https://github.com/Wanderwille/scrinshot/blob/main/ansible3-diff(повторный).png)
 
-9. Ссылка на файл README.md 
+9. Ссылка на файл README.md: https://github.com/Wanderwille/ansible3/blob/main/scr/README.MD
